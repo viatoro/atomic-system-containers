@@ -1,4 +1,4 @@
-FROM viatoro/kubernetes-master
+FROM viatoro/kubernetes-node
 ENV container=docker
 
 ENV NAME=kubernetes-proxy VERSION=0 RELEASE=8 ARCH=x86_64
