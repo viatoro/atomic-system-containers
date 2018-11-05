@@ -1,4 +1,4 @@
-FROM kubernetes-node:rawhide
+FROM viatoro/kubernetes-master
 ENV container=docker
 
 ENV NAME=kubernetes-proxy VERSION=0 RELEASE=8 ARCH=x86_64

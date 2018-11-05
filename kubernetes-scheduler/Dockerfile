@@ -1,4 +1,4 @@
-FROM kubernetes-master:rawhide
+FROM viatoro/kubernetes-master
 ENV container=docker
 
 ENV NAME=kubernetes-scheduler VERSION=0.1 RELEASE=8 ARCH=x86_64
