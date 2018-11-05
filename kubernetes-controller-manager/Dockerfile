@@ -1,4 +1,4 @@
-FROM viatoro/kubernetes-master:rawhide
+FROM viatoro/kubernetes-master
 
 ENV container=docker
 
