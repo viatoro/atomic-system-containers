@@ -1,4 +1,4 @@
-FROM viatoro/kubernetes-master
+FROM viatoro/kubernetes-node
 
 ENV container=docker
 
